@@ -39,7 +39,3 @@ python test.py
 | 4 | PnP + RANSAC | + `pnp_dlt`, `ransac_pnp` |
 | 5 | 3-view incremental SfM | all of the above |
 | 6 | Bundle adjustment | + `bundle_adjustment` |
-
-## Reference Solution
-
-A complete implementation is provided in [`solution.py`](solution.py) for when you want to check your work.
